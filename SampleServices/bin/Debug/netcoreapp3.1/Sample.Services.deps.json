@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sample.Services/1.0.0": {
+        "dependencies": {
+          "Sample.Repository.Contract": "1.0.0",
+          "Sample.Services.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Sample.Services.dll": {}
+        }
+      },
+      "Sample.Repository.Contract/1.0.0": {
+        "runtime": {
+          "Sample.Repository.Contract.dll": {}
+        }
+      },
+      "Sample.Services.Contract/1.0.0": {
+        "runtime": {
+          "Sample.Services.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sample.Repository.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sample.Services.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\bin\Debug\netstandard2.0\Sample.Repository.Contract.deps.json
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\bin\Debug\netstandard2.0\Sample.Repository.Contract.dll
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\bin\Debug\netstandard2.0\Sample.Repository.Contract.pdb
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\obj\Debug\netstandard2.0\Sample.Repository.Contract.csprojAssemblyReference.cache
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\obj\Debug\netstandard2.0\Sample.Repository.Contract.AssemblyInfoInputs.cache
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\obj\Debug\netstandard2.0\Sample.Repository.Contract.AssemblyInfo.cs
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\obj\Debug\netstandard2.0\Sample.Repository.Contract.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\obj\Debug\netstandard2.0\Sample.Repository.Contract.dll
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Repository.Contract\obj\Debug\netstandard2.0\Sample.Repository.Contract.pdb

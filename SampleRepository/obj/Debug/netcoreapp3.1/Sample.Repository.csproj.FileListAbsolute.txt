@@ -1,0 +1,12 @@
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\bin\Debug\netcoreapp3.1\Sample.Repository.deps.json
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\bin\Debug\netcoreapp3.1\Sample.Repository.dll
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\bin\Debug\netcoreapp3.1\Sample.Repository.pdb
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\bin\Debug\netcoreapp3.1\Sample.Repository.Contract.dll
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\bin\Debug\netcoreapp3.1\Sample.Repository.Contract.pdb
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.csprojAssemblyReference.cache
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.AssemblyInfoInputs.cache
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.AssemblyInfo.cs
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.csproj.CopyComplete
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.dll
+C:\Users\leoni\source\repos\SampleWebApplication\SampleRepository\obj\Debug\netcoreapp3.1\Sample.Repository.pdb

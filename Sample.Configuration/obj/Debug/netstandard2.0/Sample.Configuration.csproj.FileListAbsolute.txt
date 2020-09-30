@@ -1,0 +1,6 @@
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Configuration\bin\Debug\netstandard2.0\Sample.Configuration.deps.json
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Configuration\bin\Debug\netstandard2.0\Sample.Configuration.dll
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Configuration\obj\Debug\netstandard2.0\Sample.Configuration.csprojAssemblyReference.cache
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Configuration\obj\Debug\netstandard2.0\Sample.Configuration.AssemblyInfoInputs.cache
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Configuration\obj\Debug\netstandard2.0\Sample.Configuration.AssemblyInfo.cs
+C:\Users\leoni\source\repos\SampleWebApplication\Sample.Configuration\obj\Debug\netstandard2.0\Sample.Configuration.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzOskZLmRAH0sg2LEU5U+ARXf7CZPfujnGS85wKSkuDtCZlx3txFRApJ0YOxoThAasToIHky9Gr5BvV5hanzYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leoni\\source\\repos\\SampleWebApplication\\Sample.Repository.Contract\\Sample.Repository.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
